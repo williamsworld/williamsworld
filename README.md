@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chris Williams
-- 👀 I’m interested in Security, Cloud, and empowering people!
+- 👀 I’m interested in Security, Cloud, and empowering People!
 - 🌱 I’m currently learning more about automation
 - 💞️ I’m looking to collaborate on anything/everything
 
