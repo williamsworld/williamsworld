@@ -1,9 +1,15 @@
+
+
+## About Me
+> My name is Christopher Williams and I am a security professional focused on enabling organizaitons to transition to the cloud in a safe and secure maner.
+
+## General Information
 - 👋 Hi, I’m @Chris Williams
 - 👀 I’m interested in Security, Cloud Technologies, and Empowering People!
 - 🌱 I’m currently learning more about automation
 - 💞️ I’m looking to collaborate on anything/everything
 
-<!---
-williamsworld/williamsworld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<!-- Comment -->
+
+
