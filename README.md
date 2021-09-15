@@ -10,5 +10,5 @@
 
 
 
-<!-- Comment -->![image](https://user-images.githubusercontent.com/90703545/133481309-8738c19a-c256-46a3-a550-1d4f4142995a.png)
+<!-- Comment -->
 
