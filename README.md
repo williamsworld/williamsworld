@@ -7,7 +7,7 @@
 - Repository aimed at enabling Technical Specialist to leverage Azure ARM templates to create Azure Demo Environments via automation
 
 ## General Information
-
+- To be completed at a future date
 
 
 <!-- Comment -->
