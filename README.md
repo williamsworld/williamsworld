@@ -4,6 +4,7 @@
 
 ## Current Projects
 - Repository of Sentinel KQL queries
+- Repository of Azure ARM Templates
 - Demo Environment for Azure Network Security Capabilites
 
 ## General Information
