@@ -4,13 +4,12 @@
 
 ## Current Projects
 - Sentinel KQL queries
-- Azure ARM Templates
+- Azure ARM Templates (BICEP and JSON)
 - Demo Environment for Azure Network Security Capabilites
 - M365 Security Automation
 
 ## General Information
-- To be completed at a future date
-
+- Python, JSON, BICEP, Terraform, Ansible
 
 
 <!-- Comment -->
