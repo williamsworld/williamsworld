@@ -8,7 +8,7 @@
 - Demo Environment for Azure Network Security Capabilites
 
 ## General Information
--Will be completed at a future date
+- To be completed at a future date
 
 
 <!-- Comment -->
